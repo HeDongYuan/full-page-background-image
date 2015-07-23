@@ -4,4 +4,4 @@
 
 进一步可以考虑多张背景图，进而实现fullpage的效果
 
-当前考虑两种实现，分别为full-page-background-image-1.html 和 full-page-background-image-2.html
+当前考虑两种实现，分别为[full-page-background-image-1.html](https://github.com/byr-gdp/full-page-background-image/blob/master/full-page-background-image-1.html) 和 [full-page-background-image-2.html](https://github.com/byr-gdp/full-page-background-image/blob/master/full-page-background-image-2.html)
