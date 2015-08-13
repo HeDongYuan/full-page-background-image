@@ -4,4 +4,21 @@
 
 进一步可以考虑多张背景图，进而实现fullpage的效果
 
-当前考虑两种实现，分别为[full-page-background-image-1.html](https://github.com/byr-gdp/full-page-background-image/blob/master/full-page-background-image-1.html) 和 [full-page-background-image-2.html](https://github.com/byr-gdp/full-page-background-image/blob/master/full-page-background-image-2.html)
+## 单全屏
+
+当前考虑两种实现
+
+1. [full-page-background-image-1.html](https://github.com/byr-gdp/full-page-background-image/blob/master/full-page-background-image-1.html) 
+2. [full-page-background-image-2.html](https://github.com/byr-gdp/full-page-background-image/blob/master/full-page-background-image-2.html)
+
+`background-size`取值问题得完善
+
+## 多全屏
+
+### 实现原理
+
+1. div绝对定位
+2. width/height 100%
+3. top根据第几屏来设置
+
+[multiple-page-background-image.html](https://github.com/byr-gdp/full-page-background-image/blob/master/multiple-page-background-image.html.html)
